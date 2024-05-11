@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6623666582",
+    "project_id": "pamfirebase-86291",
+    "storage_bucket": "pamfirebase-86291.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6623666582:android:c97ad5c5d5e4dfd396bdb7",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauthenticationandrealtimedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOR7vLia_XSRydEWP8XUzXbZZiY6u2caE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
